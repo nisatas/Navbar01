@@ -10,7 +10,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background: #12161f;
+  background: #341c35;
   color: white;
   margin: 0;
   height: 94vh;
@@ -20,7 +20,7 @@ body {
 
 nav {
   position: relative;
-  background: #1f2635;
+  background: #9b6fa7;
   font-weight: 400;
   display: flex;
   width: 80%;
@@ -64,7 +64,7 @@ nav .item {
 }
 
 .dropdown a:hover {
-  background: #254fb5;
+  background: #3b1331;
 }
 
 .underline {
